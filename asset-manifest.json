@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Search-Unplash/static/css/main.c00f04db.chunk.css",
+    "main.js": "/Search-Unplash/static/js/main.d036f64c.chunk.js",
+    "main.js.map": "/Search-Unplash/static/js/main.d036f64c.chunk.js.map",
+    "runtime-main.js": "/Search-Unplash/static/js/runtime-main.cf13d9b0.js",
+    "runtime-main.js.map": "/Search-Unplash/static/js/runtime-main.cf13d9b0.js.map",
+    "static/js/2.95aadcb8.chunk.js": "/Search-Unplash/static/js/2.95aadcb8.chunk.js",
+    "static/js/2.95aadcb8.chunk.js.map": "/Search-Unplash/static/js/2.95aadcb8.chunk.js.map",
+    "index.html": "/Search-Unplash/index.html",
+    "precache-manifest.5edc9ea050167ddb1e45593dc7b8a208.js": "/Search-Unplash/precache-manifest.5edc9ea050167ddb1e45593dc7b8a208.js",
+    "service-worker.js": "/Search-Unplash/service-worker.js",
+    "static/css/main.c00f04db.chunk.css.map": "/Search-Unplash/static/css/main.c00f04db.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf13d9b0.js",
+    "static/js/2.95aadcb8.chunk.js",
+    "static/css/main.c00f04db.chunk.css",
+    "static/js/main.d036f64c.chunk.js"
+  ]
+}
